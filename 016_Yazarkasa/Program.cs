@@ -74,7 +74,7 @@ namespace _016_Yazarkasa
 
                     Tutar = decimal.Parse(Console.ReadLine());
 
-                  
+                  //deneme
 
                     if (Tutar <= Bakiye)
                     {
